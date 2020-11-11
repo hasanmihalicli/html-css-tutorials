@@ -1,0 +1,41 @@
+h2 {
+    color:#111920;
+    font-family:Tahoma;
+
+}
+.h-1 {
+    text-align:center;
+    color:#8396A2;
+    font-family:Tahoma; 
+}
+.p-1 {
+
+    font-family:Tahoma;
+    color:#051421;
+    font-size:17px;
+}
+.ul-1 {
+    list-style-type:none;
+    padding:15;
+    background-color:black;
+}
+.li-1 {
+    text-align:center;
+}
+li a {
+    color:#8396A2;
+    text-align:center;
+
+    text-decoration:none;
+    font-family:Tahoma;
+}
+li a:hover:not(.active) {
+    background-color:#111;
+}
+body {
+    background-color:#5F524E;
+
+}
+.resim2 {
+    width:99%; 
+}
