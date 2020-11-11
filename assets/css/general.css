@@ -1,41 +1,38 @@
 h2 {
-    color:#111920;
-    font-family:Times;
-
+  color: #111920;
+  font-family: Times;
 }
 .h-1 {
-    text-align:center;
-    color:#8396A2;
-    font-family:Times; 
+  text-align: center;
+  color: #8396a2;
+  font-family: Times;
 }
 .p-1 {
-
-    font-family:Times;
-    color:#051421;
-    font-size:50px;
+  font-family: Times;
+  color: #051421;
+  font-size: 17px;
 }
 .ul-1 {
-    list-style-type:none;
-    padding:15;
-    background-color:black;
+  list-style-type: none;
+  padding: 15;
+  background-color: black;
 }
 .li-1 {
-    text-align:center;
+  text-align: center;
 }
 li a {
-    color:#8396A2;
-    text-align:center;
+  color: #8396a2;
+  text-align: center;
 
-    text-decoration:none;
-    font-family:Times;
+  text-decoration: none;
+  font-family: Times;
 }
 li a:hover:not(.active) {
-    background-color:#111;
+  background-color: #111;
 }
 body {
-    background-color:#5F524E;
-
+  background-color: #5f524e;
 }
 .resim2 {
-    width:99%; 
+  width: 99%;
 }
