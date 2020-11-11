@@ -1,18 +1,18 @@
 h2 {
     color:#111920;
-    font-family:Tahoma;
+    font-family:Times;
 
 }
 .h-1 {
     text-align:center;
     color:#8396A2;
-    font-family:Tahoma; 
+    font-family:Times; 
 }
 .p-1 {
 
-    font-family:Tahoma;
+    font-family:Times;
     color:#051421;
-    font-size:17px;
+    font-size:50px;
 }
 .ul-1 {
     list-style-type:none;
@@ -27,7 +27,7 @@ li a {
     text-align:center;
 
     text-decoration:none;
-    font-family:Tahoma;
+    font-family:Times;
 }
 li a:hover:not(.active) {
     background-color:#111;
